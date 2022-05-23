@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T15:49:13.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="C2zE-sAz4Ue9_lToPrBe" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T15:51:10.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="y5UyNSjqDd-0t_P5sEjx" version="17.5.0" type="github">
   <diagram id="A5NiPpgJj7nc6MVz3xeY" name="Page-1">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -242,8 +242,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RjcR3AsE55ujhxijjUr5-74" value="&lt;font color=&quot;#1a1a1a&quot;&gt;L_OK后推动主状态机迁移&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="932" y="130" width="190" height="20" as="geometry" />
+        <mxCell id="RjcR3AsE55ujhxijjUr5-74" value="&lt;font color=&quot;#1a1a1a&quot;&gt;L_OK后进行解析，解析成功则推动主状态机迁移&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="805" y="130" width="340" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
